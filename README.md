@@ -1,4 +1,3 @@
 UNI-Gemilson
 ============
-
-UninorteGemilson
+Alunos: Gemilson e Francicley
